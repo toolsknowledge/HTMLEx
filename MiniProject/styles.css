@@ -1,0 +1,80 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 20px;
+    padding: 0;
+    background-color: gray;
+}
+.menu{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+    background-color: salmon;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 20px;
+    margin: 10px;
+}
+a:hover{
+    background-color: sienna;
+}
+h1{
+   text-align: center;
+   color: white;
+   font-family: Comic Sans MS; 
+}
+h2{
+    color: white;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+img{
+    width: 200px;
+    border: 1px solid red;
+    border-radius: 20px;
+}
+
+img:hover{
+    width: 210px;
+}
+
+.cakes{
+    border:1px solid white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
